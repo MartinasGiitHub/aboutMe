@@ -6,7 +6,7 @@ Diese Expertise hilft mir auch aktuell in meiner familiär bedingten *CareTime*,
 
 Ich habe 1997/98 einen der ersten interdisziplinären Studiengänge Deutschlands begonnen und diesen 2002 erfolgreich mit dem Diplom **Media System Design FH** abgeschlossen.
 
-Derzeit beschäftige ich mich intensiv mit dem Thema **Künstliche Intelligenz**, insbesondere mit Automatisierung via **n8n**, betreibe ein eigenes **Selfhosting-Setup mit Docker** und nutze **ngrok** als HTTPS-Tunnel.
+Derzeit beschäftige ich mich intensiv mit dem Thema Künstliche Intelligenz, insbesondere mit Automatisierung via n8n und einem eigenen Selfhosting-Setup auf Docker-Basis – je nach Projekt auch gehostet über Railway und angestoßen durch GitHub Actions.
 
 Und ja – mein Avatar sieht etwas jünger aus, als man bei diesem Lebenslauf vielleicht vermuten würde. Das passt ganz gut: Ich übrigens auch. 😉
 
